@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TheLongestWord {
+public class TheLongestWord_Task2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
